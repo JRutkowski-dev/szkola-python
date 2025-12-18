@@ -1,4 +1,4 @@
 def powitanie(imie):
-	return f"witaj {imie} w systemie Linux!"
+	reurn f"witaj {imo
 
-print (powitanie("uczniu"))
+prit (powitanie("uczniu"))
